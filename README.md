@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/apermar-dev/apermar-dev/output/snake.svg" alt="Snake animation" />
-
-###
